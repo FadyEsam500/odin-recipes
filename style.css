@@ -1,0 +1,14 @@
+* {
+    background: lightgrey;
+    text-align: center;
+}
+
+.header {
+    background: gray;
+}
+
+hr {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
